@@ -1,0 +1,7 @@
+/ - корневая папка
+/Users/Nikita - папка пользователя
+
+/Users/nikita/Germany/Nikita - проектная папка
+/Users/nikita/Germany/Nikita/css/main.css - абсолютный путь
+
+/css/main.css - относительны путь
